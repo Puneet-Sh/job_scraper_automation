@@ -1,0 +1,23 @@
+# Ignore virtual environment folder
+jsa_venv/
+
+# Ignore configuration files
+config.py
+
+# Ignore config file
+config/config.json
+
+# Ignore environment variables file
+.env
+
+# Optional: common Python ignores
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.swp
