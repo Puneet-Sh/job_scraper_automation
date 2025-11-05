@@ -1,0 +1,25 @@
+INFO:root:Starting job scraping pipeline...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:There is no [mac64] chromedriver "142.0.7444.59" for browser google-chrome "142.0.7444" in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:WebDriver version 142.0.7444.59 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.59/mac-x64/chromedriver-mac-x64.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.59/mac-x64/chromedriver-mac-x64.zip
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [/Users/puneetsharma/.wdm/drivers/chromedriver/mac64/142.0.7444.59]
+ERROR:root:Pipeline failed: 'bytes' object has no attribute 'encode'
+INFO:root:Starting job scraping pipeline...
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:WebDriver version 142.0.7444.59 selected
+INFO:WDM:Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.59/mac-x64/chromedriver-mac-x64.zip
+INFO:WDM:About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.59/mac-x64/chromedriver-mac-x64.zip
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [/Users/puneetsharma/.wdm/drivers/chromedriver/mac64/142.0.7444.59]
+ERROR:root:Pipeline failed: 'bytes' object has no attribute 'encode'
